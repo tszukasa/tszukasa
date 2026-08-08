@@ -1,10 +1,10 @@
 <svg width="500" height="20" viewBox="0 0 500 20" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8D99AE" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8D99AE" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#8D99AE" stop-opacity="0"/>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0">
+      <stop offset="0%" stop-color="#535588" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#535588" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#535588" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <line x1="0" y1="10" x2="500" y2="10" stroke="url(#fade)" stroke-width="1.5"/>
+  <rect x="0" y="9" width="500" height="2.5" fill="url(#fade)"/>
 </svg>
