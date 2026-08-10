@@ -26,7 +26,7 @@
 <h3 style="text-align: left;"><font color="#8D99AE"><i>about me .</i></font></h3>
 <font color="#8D99AE">
   <p style="text-align: center;"><br><br>main usn: @tszukasa</p>
-  <p class="is-empty is-editor-empty" style="text-align: center;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://pronouns.cc/@tszukasa">prncc</a>  <strong>·</strong>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://badthjngs.atabook.org">ata</a></p>
+  <p class="is-empty is-editor-empty" style="text-align: center;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://pronouns.cc/@tszukasa">prncc</a>  <strong>·</strong>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://badthjngs.atabook.org">新book</a></p>
   <br>
   <p class="is-empty is-editor-empty" style="text-align: center;"></p><p class="is-empty is-editor-empty" style="text-align: center;">off-tab , w2i</p>
   <p class="is-empty is-editor-empty" style="text-align: center;"></p><p class="is-empty is-editor-empty" style="text-align: center;">ivan fictkin (doubles ok)</p>
