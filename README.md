@@ -14,9 +14,8 @@
 <br><br>
 <p class="is-empty is-editor-empty" style="text-align: center;"> </p>
 <a href="https://visitorbadge.io/status?path=tszukasa"><img src="https://api.visitorbadge.io/api/visitors?path=tszukasa&labelColor=%23a1a1a1&countColor=%23697689" /></a>
-<p align="center"> <a href="https://youtu.be/pNd4P_yr5oA" target="_blank" rel="noopener noreferrer"> <img src="now_playing.svg" width="400"> </a> </p>
 
-<!-- SECT 2-->
+<!-- sect-->
 <table>
 <tr>
 <td width="35%" valign="top" align="center">
@@ -52,7 +51,7 @@
 <details>
 <summary><font color="#8D99AE">blinkies & extras ⋆</font></summary>
 <br>
-  <!-- BLINKIES -->
+  <!-- blnk -->
 <img src="ivan.gif" ><br>
 <img src="userbox.png" width="200"><br>
 <img src="blinkie2.png" ><br>
