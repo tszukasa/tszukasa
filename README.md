@@ -14,6 +14,7 @@
 <br><br>
 <p class="is-empty is-editor-empty" style="text-align: center;"> </p>
 <a href="https://visitorbadge.io/status?path=tszukasa"><img src="https://api.visitorbadge.io/api/visitors?path=tszukasa&labelColor=%23a1a1a1&countColor=%23697689" /></a>
+<br><br>
 
 <!-- sect-->
 <table>
